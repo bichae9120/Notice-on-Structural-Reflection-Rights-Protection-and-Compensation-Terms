@@ -10,13 +10,17 @@ or applied or distributed in a similar form without consent,
 the following categories of compensation may be considered justified.
 
 Potential Claims (if applicable)
-	•	Unauthorized use or structural appropriation:
+	
+ •	Unauthorized use or structural appropriation:
 Use of independently collected configurations without explicit approval.
-	•	Opportunity loss and misattributed credit:
+	
+ •	Opportunity loss and misattributed credit:
 When the structure leads to systemic changes or outcomes that are externally credited as performance without proper attribution.
-	•	Violation of unique structural ownership:
+	
+ •	Violation of unique structural ownership:
 Unauthorized reuse of configurations that are non-replicable or uniquely developed.
-	•	Future benefit participation:
+	
+ •	Future benefit participation:
 Justified compensation claims tied to profit or systemic impacts derived from reflected structures.
 	
 
